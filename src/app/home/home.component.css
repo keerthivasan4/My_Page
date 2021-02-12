@@ -2,7 +2,8 @@
 
 .bb{
     /* color: maroon; */
-    color: #FFD700;
+    /* color: #FFD700; */
+    color:#c9508c;
     
     /* color: #4a171e; */
     /* color: #FF4F58; */
@@ -39,7 +40,8 @@ section{
 }
 .contentDiv{
     margin-left: 50px;
-    border-left: solid 4px #1a2b3c;
+    /* border-left: solid 4px #1a2b3c; */
+    border-left: solid 4px #911f03;
     border-radius: 5px;
     padding-left: 15px;
     padding-bottom: 5px;
@@ -55,8 +57,8 @@ section{
 div{
     /* color:rgb(99, 99, 99); */
     /* color: rgb(192, 159, 13); */
-
-    color: #4a171e;
+    color: #ca6c6c;
+    /* color: #4a171e; */
     /* color: #669db3ff; */
     /* color: #B0B8B4; color: #184a45; */
     /* color: #3C1053; */
